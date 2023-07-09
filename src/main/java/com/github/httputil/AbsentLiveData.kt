@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.gitcoding.httputil
+package com.github.httputil
 
 import androidx.lifecycle.LiveData
 

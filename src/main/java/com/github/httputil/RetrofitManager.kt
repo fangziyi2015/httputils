@@ -1,4 +1,4 @@
-package com.gitcoding.httputil
+package com.github.httputil
 
 import android.os.Environment
 import com.gitcoding.httputil.factory.LiveDataCallAdapterFactory

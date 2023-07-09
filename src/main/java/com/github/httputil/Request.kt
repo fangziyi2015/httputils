@@ -1,4 +1,4 @@
-package com.gitcoding.httputil
+package com.github.httputil
 
 import androidx.lifecycle.ViewModel
 import kotlinx.coroutines.Dispatchers

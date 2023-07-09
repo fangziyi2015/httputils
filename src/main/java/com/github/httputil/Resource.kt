@@ -1,4 +1,4 @@
-package com.gitcoding.httputil
+package com.github.httputil
 
 data class Resource<T>(
     val status: Status,

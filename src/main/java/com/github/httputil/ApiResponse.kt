@@ -1,4 +1,4 @@
-package com.gitcoding.httputil
+package com.github.httputil
 
 import retrofit2.HttpException
 import retrofit2.Response

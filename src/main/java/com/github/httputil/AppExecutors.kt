@@ -1,4 +1,4 @@
-package com.gitcoding.httputil
+package com.github.httputil
 
 import android.os.Handler
 import android.os.Looper

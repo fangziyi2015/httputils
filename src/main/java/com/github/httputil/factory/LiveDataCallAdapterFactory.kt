@@ -1,7 +1,7 @@
-package com.gitcoding.httputil.factory
+package com.github.httputil.factory
 
 import androidx.lifecycle.LiveData
-import com.gitcoding.httputil.*
+import com.github.httputil.*
 import retrofit2.*
 import retrofit2.CallAdapter.Factory
 import java.lang.reflect.ParameterizedType

@@ -1,4 +1,4 @@
-package com.gitcoding.httputil
+package com.github.httputil
 
 import androidx.annotation.MainThread
 import androidx.annotation.WorkerThread

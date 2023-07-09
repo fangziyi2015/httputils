@@ -1,7 +1,7 @@
-package com.gitcoding.httputil.factory
+package com.github.httputil.factory
 
-import com.gitcoding.httputil.ApiResponse
-import com.gitcoding.httputil.Resource
+import com.github.httputil.ApiResponse
+import com.github.httputil.Resource
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
